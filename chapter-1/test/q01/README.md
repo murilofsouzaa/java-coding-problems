@@ -1,8 +1,8 @@
-All questions were extracted from the book "Java Coding Problems" by Anghel Leonard
+> All questions were extracted from the book "Java Coding Problems" by Anghel Leonard
 
 # Question 01
 
-Counting duplicate characters: Write a program that counts duplicate characters from a given string.
+**Counting duplicate characters: Write a program that counts duplicate characters from a given string.**
 
 In this question, I made the following steps:
 
