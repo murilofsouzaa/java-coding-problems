@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+//Checking whether a string contains only digits:
+//Write a program that checks whether the given string contains only digits.
 public class ContaintOnlyDigits {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
