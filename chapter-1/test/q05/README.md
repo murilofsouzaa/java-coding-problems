@@ -6,4 +6,6 @@ All questions were extracted from the book "Java Coding Problems" by Anghel Leon
 
 In this question, I made the following steps:
 
-1. I only checked if the index of characters is equals to the any of vowels, and if it's true, increments one in the vowels, else, count increments one in the consonants var counter.
+1. I only checked if the index of characters is equals to the any of vowels, and if it's true, increments one in the vowels, else, increments one in the consonants.
+
+I think that problem was quite easy. Later I will try to implement another solution for this because I used the simplest one.
