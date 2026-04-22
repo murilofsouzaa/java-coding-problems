@@ -1,4 +1,8 @@
 import java.util.Scanner;
+
+//Counting occurrences of a certain character:
+//Write a program that counts the occurrences of a certain character in a given string.
+
 public class CountingOcurrences {
 
     public static int countingOcurrencesOfCharacter(String string, char character){
