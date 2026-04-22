@@ -15,4 +15,4 @@ Here I will save all the problems that I resolved. Every question resolved has i
 
 The technology is only java and its inner methods.
 
-Feel free to fork and provice a better solution :)
+Feel free to fork and provide a better solution :)
