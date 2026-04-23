@@ -1,4 +1,8 @@
 import java.util.Scanner;
+
+//Converting String into int, long, float, or double: 
+//Write a program that converts the given String object (representing a number) into int, long, float, or double.
+
 public class ConvertingString<T> {
     
     private static void checkingWord(String string){
@@ -48,7 +52,6 @@ public class ConvertingString<T> {
         } catch (IllegalArgumentException e) {
             System.err.println(e.getMessage());
         }
-
     }
 
     public static void main(String[] args) {
